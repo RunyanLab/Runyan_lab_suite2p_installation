@@ -10,5 +10,4 @@ This will create a new anaconda environment with:
 Suite2p version 0.10.3
 Cellpose version 0.7.2
 Rastermap version 0.1.3
-
-+ several dependencies that are specific to these versions of suite2p, cellpose, and rastermap. 
+and several dependencies that are specific to these versions 
