@@ -3,7 +3,7 @@
 1. Download the file: runyan_lab_suite2p.yml to a location on your computer
 2. Open anaconda navigator and start base environment
 3. cd to the location of the .yml file
-4. conda env create --name runyan_lab_suite2p --file=runyan_lab_suite2p.yml
+4. conda env create --name runyan_suite2p --file=runyan_lab_suite2p.yml
 
 This will create a new anaconda environment with:
 
